@@ -62,8 +62,8 @@ public class HelloWorld {
 
 Open a terminal in the labone folder:
 
-javac src/HelloWorld.java
-java -cp src HelloWorld
+javac src/HelloWorld.java;
+java -cp src HelloWorld;
 
 You should see:
 
