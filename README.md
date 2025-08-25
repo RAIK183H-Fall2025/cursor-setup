@@ -17,7 +17,25 @@ Cursor is an AI-assisted code editor that will help you learn programming. The b
 5. Create a password
 6. Verify your email address
 
-### 1b. Download and Install Cursor
+### 1b. Verify Your Student Status
+
+**Important:** To get your free year of Cursor, you need to verify you're a student!
+
+1. **After signing up**, Cursor will ask you to verify your student status
+2. **Click "Verify Student Status"** when prompted
+3. **Choose your school** from the dropdown list
+4. **Enter your school email** (the same .edu email you used to sign up)
+5. **Check your email** for a verification link
+6. **Click the verification link** in your email
+
+**If you don't see the verification prompt:**
+
+- Look for a "Student" or "Education" option in your account settings
+- Or contact Cursor support at [support@cursor.com](mailto:support@cursor.com)
+
+**What this gives you:** A full year of Cursor Pro completely free!
+
+### 1c. Download and Install Cursor
 
 1. After creating your account, you'll be taken to the download page
 2. Click the big "Download" button
@@ -26,7 +44,7 @@ Cursor is an AI-assisted code editor that will help you learn programming. The b
    - **Windows**: Double-click the downloaded file and follow the installation wizard
    - **Linux**: Extract the file and run the installer
 
-### 1c. Sign In to Cursor
+### 1d. Sign In to Cursor
 
 1. Open Cursor from your Applications/Programs menu
 2. Sign in with the email and password you created
