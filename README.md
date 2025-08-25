@@ -21,17 +21,16 @@ Cursor is an AI-assisted code editor that will help you learn programming. The b
 
 **Important:** To get your free year of Cursor, you need to verify you're a student!
 
-1. **After signing up**, Cursor will ask you to verify your student status
-2. **Click "Verify Student Status"** when prompted
+1. **Go to [cursor.com/students](https://cursor.com/students)**
+2. **Click "Verify Student Status"**
 3. **Choose your school** from the dropdown list
 4. **Enter your school email** (the same .edu email you used to sign up)
 5. **Check your email** for a verification link
 6. **Click the verification link** in your email
 
-**If you don't see the verification prompt:**
-
-- Look for a "Student" or "Education" option in your account settings
-- Or contact Cursor support at [support@cursor.com](mailto:support@cursor.com)
+**If you have trouble:**
+- Make sure you're using your school email address (.edu)
+- Contact Cursor support at [support@cursor.com](mailto:support@cursor.com)
 
 **What this gives you:** A full year of Cursor Pro completely free!
 
